@@ -141,7 +141,7 @@ nav {
 
 section {
   width: 100%;
-  height: 600px;
+  clear: both;
 }
 
 .general-display {
@@ -159,26 +159,34 @@ section {
 
 .grid-50 {
   width: 50%;
-  float: left;
-  height: 350px;
 }
 
 .grid-100 {
   width: 100%;
-  height: 350px;
 }
 
 .grid-1-3 {
   width: 33%;
-  height: 350px;
 }
 
 .grid-2-3 {
   width: 66%;
+}
+
+.h350 {
   height: 350px;
+}
+
+.h650 {
+  height: 650px;
+}
+
+.h1030 {
+  height: 1030px;
 }
 
 footer {
   width: 100%;
   height: 450px;
+  clear: both;
 }
