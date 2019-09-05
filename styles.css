@@ -103,7 +103,7 @@ section {
 
 body {
   line-height: 1;
-  background: #eceef1;
+  background: #fff;
 }
 
 ol,
@@ -141,14 +141,9 @@ nav {
   height: 170px;
 }
 
-main {
-  overflow: auto;
-}
-
-section {
+.div-section {
   width: 100%;
   clear: both;
-  overflow: auto;
 }
 
 footer {
@@ -199,11 +194,11 @@ article div {
 }
 
 .grid-1-3 {
-  width: 33%;
+  width: 33.33%;
 }
 
 .grid-2-3 {
-  width: 66%;
+  width: 66.66%;
 }
 
 /* Height Classes */
@@ -239,17 +234,17 @@ article div {
 /* Background Colors */
 
 .b1 {
-  background-color:  rgb(200,200,200);
+  background-color: rgb(200, 200, 200);
 }
 
 .b2 {
-  background-color:  rgb(150,150,150);
+  background-color: rgb(150, 150, 150);
 }
 
 .b3 {
-  background-color: rgb(100, 100, 100)
+  background-color: rgb(100, 100, 100);
 }
 
 .b4 {
-  background-color: rgb(50,50,50);
+  background-color: rgb(50, 50, 50);
 }
