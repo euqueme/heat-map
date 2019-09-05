@@ -166,6 +166,8 @@ article div {
   margin: 5% 37.5% 0 37.5%;
 }
 
+/* General Classes */
+
 .general-display {
   display: inline-flex;
 }
@@ -204,6 +206,8 @@ article div {
   width: 66%;
 }
 
+/* Height Classes */
+
 .h50 {
   height: 50%;
 }
@@ -230,4 +234,22 @@ article div {
 
 .h1030 {
   height: 1030px;
+}
+
+/* Background Colors */
+
+.b1 {
+  background-color:  rgb(200,200,200);
+}
+
+.b2 {
+  background-color:  rgb(150,150,150);
+}
+
+.b3 {
+  background-color: rgb(100, 100, 100)
+}
+
+.b4 {
+  background-color: rgb(50,50,50);
 }
