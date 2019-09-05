@@ -131,7 +131,6 @@ table {
 
 * {
   box-sizing: border-box;
-  border: solid 1px red;
 }
 
 /* Content */
@@ -247,4 +246,34 @@ article div {
 
 .b4 {
   background-color: rgb(50, 50, 50);
+}
+
+/* Fonts */
+
+h2 {
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 2em;
+  padding: 20px;
+  color: rgb(50, 50, 50);
+  font-weight: bold;
+  line-height: 1.2em;
+}
+
+h4 {
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 0.75em;
+  padding: 10px;
+  color: rgb(150, 150, 150);
+  font-weight: bold;
+}
+
+p {
+  font-family: 'Vollkorn', serif;
+  padding: 20px;
+  color: rgb(100, 100, 100);
+  line-height: 1.5em;
+}
+
+.h2-2 {
+  font-family: 'Droid Serif', Georgia, Times, serif;
 }
