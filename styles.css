@@ -251,31 +251,38 @@ article div {
 
 /* Fonts */
 
-h2 {
+h2,
+h6 {
   font-family: "Ubuntu", sans-serif;
   font-size: 2em;
   padding: 20px;
   color: rgb(50, 50, 50);
-  font-weight: bold;
+  font-weight: 700;
   line-height: 1.2em;
+}
+
+h6 {
+  color: rgb(100, 100, 100);
 }
 
 h3,
 h4 {
   font-family: "Ubuntu", sans-serif;
-  font-size: 0.75em;
+  font-size: 0.8em;
   padding: 10px 20px;
   color: rgb(150, 150, 150);
-  font-weight: bold;
+  font-weight: 700;
 }
 
 h3 {
   font-size: 1.2em;
+  font-weight: 400;
+  color: rgb(200, 200, 200);
 }
 
 p,
 h1 {
-  font-family: "Vollkorn", serif;
+  font-family: "IBM Plex Serif", serif;
   padding: 20px;
   color: rgb(100, 100, 100);
   line-height: 1.5em;
