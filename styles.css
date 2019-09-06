@@ -281,11 +281,32 @@ h3 {
 }
 
 p,
-h1 {
+h1,
+a {
   font-family: "IBM Plex Serif", serif;
   padding: 20px;
   color: rgb(100, 100, 100);
   line-height: 1.5em;
+}
+
+li {
+  float: left;
+  display: inline-block;
+}
+
+ul {
+  width: 100%;
+  margin: auto;
+  padding-top: 100px;
+  text-align: center;
+  display: table;
+  clear: both;
+}
+
+a {
+  text-decoration: none;
+  line-height: normal;
+  border: none;
 }
 
 h1 {
