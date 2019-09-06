@@ -289,30 +289,32 @@ a {
   line-height: 1.5em;
 }
 
-li {
-  float: left;
-  display: inline-block;
-}
-
 ul {
   width: 100%;
   margin: auto;
   padding-top: 100px;
   text-align: center;
-  display: table;
-  clear: both;
+}
+
+li {
+  display: inline-flex;
+  height: 50px;
 }
 
 a {
   text-decoration: none;
-  line-height: normal;
   border: none;
+  font-family: "Ubuntu", sans-serif;
+}
+
+footer p {
+  font-size: .7em;
+  text-align: center;
+  margin: auto;
+  padding: 50px;
+  font-family: "IBM Plex Serif", serif;
 }
 
 h1 {
   font-family: "IBM Plex Serif", serif;
-}
-
-.h2-2 {
-  font-family: "Droid Serif", Georgia, Times, serif;
 }
