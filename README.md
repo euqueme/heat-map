@@ -1,3 +1,5 @@
+![Hireable](https://cdn.rawgit.com/hiendv/hireable/master/styles/default/yes.svg)
+
 # DESIGN TEARDOWN
 
 This is a project that breaks apart the website for a popular design magazine – Smashing Magazine. 
@@ -6,16 +8,16 @@ The goal for this exercise is to think in terms of visual hierarchy, typography 
 
 ## Sources
 
-You can check the original version here: https://www.smashingmagazine.com/
+You can check the original version at [smashingmagazine](https://www.smashingmagazine.com/)
 
 This project is part of the Microverse Curriculum. www.microverse.org
 
-This project is part of the Odin Project Curriculum "PROJECT: DESIGN TEARDOWN" (you can find the complete project here:(https://www.theodinproject.com/courses/html5-and-css3/lessons/design-teardown)
+This project is part of the Odin Project Curriculum ["PROJECT: DESIGN TEARDOWN"](https://www.theodinproject.com/courses/html5-and-css3/lessons/design-teardown)
 
 
 ## Live Version
 
-You can see it here:  https://euqueme.github.io/heat-map/
+You can see it [here](https://euqueme.github.io/heat-map/)
 
 ## Built With
 
