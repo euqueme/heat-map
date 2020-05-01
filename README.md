@@ -26,7 +26,7 @@
     <img src="https://raw.githubusercontent.com/euqueme/toy-app/master/app/assets/images/mLogo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Building with our Framework</h3>
+  <h3 align="center">DESIGN TEARDOWN</h3>
 
   <p align="center">
     This project is part of the Microverse CSS3 and HTML curriculum!
@@ -127,5 +127,5 @@ This project is part of the Odin Project Curriculum ["PROJECT: DESIGN TEARDOWN"]
 [stars-url]: https://github.com/euqueme/heat-map/stargazers
 [issues-shield]: https://img.shields.io/github/issues/euqueme/heat-map.svg?style=flat-square
 [issues-url]: https://github.com/euqueme/heat-map/issues
-[product-screenshot]: screenshot.PNG
+[product-screenshot]: screenshot.png
 
