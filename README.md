@@ -76,7 +76,8 @@ This project was built using these technologies.
 ## Usage
 
 If you want to use it locally, [download](https://github.com/euqueme/heat-map/archive/master.zip) or clone this repo with the following instruction
-``git clone https://github.com/euqueme/heat-map.git``
+
+```git clone https://github.com/euqueme/heat-map.git```
 
 cd to the project directory and open de index.html file in your browser
 
